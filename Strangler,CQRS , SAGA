@@ -1,0 +1,6 @@
+Strangler Pattern
+how to refactor monolithic to microservices
+Controller will decide how myuch percentage of API traffic will go to monolithic and how mych to microservices
+Strangler means ghotna
+
+SAGA
