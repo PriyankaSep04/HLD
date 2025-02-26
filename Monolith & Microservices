@@ -12,3 +12,7 @@ Microservices Disadvantage
 Latency can increase if we don't decompose the monolithic systems properly.
 Monitoring is difficult S1 -> S2 -> S3 (s3 changed response from a to a')
 Transaction Management is difficult.
+
+Decomposition
+Decomposition by business functionality.
+Decomposition by subdomain.
