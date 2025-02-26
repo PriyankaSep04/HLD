@@ -16,3 +16,16 @@ Transaction Management is difficult.
 Decomposition
 Decomposition by business functionality.
 Decomposition by subdomain.
+
+Database
+Database per service
+Shared database
+
+Communication
+Via api
+Via events
+
+Integration
+API Gateway
+
+Decomposition
