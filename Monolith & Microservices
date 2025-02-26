@@ -1,4 +1,8 @@
-Monolith
+Monolith Disadvantages
 
 Overload IDE
-Scaling is very difficult
+Scaling is very difficult (for scaling need to scala entire system ,ci job,regression hard,debugging hard)
+
+Microservices Advantage
+Scaling easy
+Debugging easy
