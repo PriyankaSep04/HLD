@@ -1,0 +1,13 @@
+Message Queue
+
+Rabbit MQ
+
+Exchanges
+
+Direct
+
+Routing key == Binding key. Queue based on the binding key will receive message
+
+Fan out
+
+All queues will receive msgs.
