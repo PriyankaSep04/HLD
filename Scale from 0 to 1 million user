@@ -11,3 +11,8 @@ Routing key == Binding key. Queue based on the binding key will receive message
 Fan out
 
 All queues will receive msgs.
+
+
+Topic
+
+Exchange can send message to more than one queue.
