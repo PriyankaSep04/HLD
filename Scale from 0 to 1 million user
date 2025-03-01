@@ -21,3 +21,10 @@ Sharding databases
 
 Row wise sharding
 Column wise sharding.
+
+Drawback
+Lets say there are lot of ppl with name A lot of records on T1. Shard them again and again (form a tree).
+tree problem solve -> consistent hashing.
+
+if join issues
+denormalize
