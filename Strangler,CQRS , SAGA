@@ -4,3 +4,21 @@ Controller will decide how myuch percentage of API traffic will go to monolithic
 Strangler means ghotna
 
 SAGA
+Choreography
+
+Message event S1 make a transactions, S2 make a transaction. S3 failed it will publish an event and S2 will listen and rollback and publish 
+an event S1 will listen and rollback its transaction.
+
+Drawback
+Cyclic dependendency.
+
+Orchestrator
+
+orchestrator wll tell to rollback if failed
+
+CQRS
+
+Create Update Delete in one DB
+Read in one db
+
+On creation,updation and deletion db can either generate events or run trigger or procedure so that read db can be updated.
