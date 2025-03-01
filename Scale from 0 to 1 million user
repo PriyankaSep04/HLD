@@ -16,3 +16,8 @@ All queues will receive msgs.
 Topic
 
 Exchange can send message to more than one queue.
+
+Sharding databases
+
+Row wise sharding
+Column wise sharding.
