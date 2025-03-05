@@ -6,7 +6,13 @@ Use of Consistent Hashing
 Only 1/n % of rebalancing is requited then consistent hashing
 
 How it works?
+Virtual Ring
 
+Set server randomly. * hash(server)%n
+Get the value where to keep server
 
+key11 hash(key1)%n
+
+it reduces key rebalances required when a new server gets added or existing one gets deleted.
 
 How it solved problem
