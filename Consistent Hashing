@@ -15,4 +15,9 @@ key11 hash(key1)%n
 
 it reduces key rebalances required when a new server gets added or existing one gets deleted.
 
+Problem -> Skewed
+
+Sol
+Virtual objects -> Replicate server at diff locations.
+
 How it solved problem
