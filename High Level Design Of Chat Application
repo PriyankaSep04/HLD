@@ -24,3 +24,4 @@ Then they maintain a persistent db connection.
 User connects to the chatserver via websockets.
 User Mapping service keeps the user mapping (mapping between user/client and chatserver i.e which user is connected to which chatserver).
 User communicates with the user mapping service via http
+User mapping service takes the responsibility of assigning a chat server to a user.
