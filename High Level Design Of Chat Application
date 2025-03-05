@@ -1,1 +1,18 @@
+Requirement Gathering
+
+Functional
+
+1) 1-1 send/receive msgs(text).
+2) Group msg support
+3) Last Seen / Online / Offline
+4) User login / authentication
+
+
+Non Functional
+
+1) Scalibility
+2) Low Latency
+3) Availability
+
+
 
