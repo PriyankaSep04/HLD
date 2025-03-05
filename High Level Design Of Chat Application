@@ -15,4 +15,7 @@ Non Functional
 3) Availability
 
 
-
+Websocket
+Client handshakes with server
+And server sends acknowledgement.
+Then they maintain a persistent db connection.
