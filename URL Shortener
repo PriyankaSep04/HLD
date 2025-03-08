@@ -1,1 +1,17 @@
+Requirement Analysis
+
+1) How short our url should be?
+2) Traffic?
+let's assume
+10 million url/day
+per year 3650 million url/year
+for 100 yrs
+
+365000million/year = 365 billion url
+
+which characters we can use?
+
+0-9 a-z A-Z total 62 characters
+
+how many dirreremt combination
 
