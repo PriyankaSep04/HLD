@@ -2,7 +2,7 @@
 
 https://notebook.zohopublic.in/public/notes/9wn9od9ab6075a35b4258aadedbf53aca805e
 
-Mesh<img src="Mesh">
+Mesh<img src="Mesh.png">
 
 Communication<img src="Communication.png">
 
